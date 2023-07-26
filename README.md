@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey guys! 👋
+My name is konstantin and I'm Java Delovoper. I'm from Russia, living in Krasnodar
+💬 My telegram @riflemn
+
 
 <!--
 **Riflemann/Riflemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
