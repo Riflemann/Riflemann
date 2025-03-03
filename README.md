@@ -4,17 +4,13 @@ My name is Konstantin and I'm Java Delovoper. I'm from Russia, living in Krasnod
 💬 My telegram [@riflemn](https://t.me/riflemn)
 
 ## 🔧 Technologies & Tools
-  - Java Core
+  - Java 21+
   - Spring Framework
-  - Hibernate, Spring DataJPA, JDBC
-  - JUnit
-  - PostgreSQL, H2
-  - Docker
-  - Apache Kafka
+  - Hibernate, Spring DataJPA\JDBC
+  - PostgreSQL, FireBird
+  - Docker, Grafana, Portainer
+  - Apache Kafka, Nats
   - Git
-  - REST
-  - Lombook
-  - Liquibase
 
 <!--
 **Riflemann/Riflemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
